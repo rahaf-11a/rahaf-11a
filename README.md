@@ -20,22 +20,6 @@
 
 - 💬 Ask me about **Machine Learning, Speech AI, NLP, and Adversarial ML**
 
-- 📫 Reach me through **LinkedIn or GitHub**
-
----
-
-## Connect with me:
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rahaf-11a">
-    <img src="https://skillicons.dev/icons?i=github" height="42" />
-  </a>
-</p>
-
 ---
 
 ## Languages and Tools:
