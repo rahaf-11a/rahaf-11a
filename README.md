@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahaf Alshahrani</h1>
+<h1 align="center">Hi 👋, I'm Rahaf </h1>
 
 <h3 align="center">AI Researcher · Speech AI · Cybersecurity</h3>
 
